@@ -50,7 +50,7 @@ app.get("/scrape", function (req, res) {
       result.title = $(this)
         .find("h2")
         .text();
-      result.link = "https://www.nytimes.com" + $(this)
+      result.link = $(this)
         .find("a")
         .attr("href");
       result.summary = $(this)

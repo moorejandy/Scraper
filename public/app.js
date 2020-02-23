@@ -3,6 +3,7 @@ $("#scrape").on("click", function(){
     method: "GET",
     url: "/scrape"
   }).then(function(data){
+    console.log(data);
   });
 });
 
