@@ -5,7 +5,7 @@
 ## This app will scrape news articles from The New York Times and allow you to save notes/comments to the articles that interest you.
 - You can also follow a link to the original article. 
 
-### Technologie
+### Technologies
 * Node.js 
 * express
 * JavaScript
