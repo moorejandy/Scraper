@@ -6,13 +6,13 @@
 - You can also follow a link to the original article. 
 
 ### Technologie
-. Node.js 
-. express
-. JavaScript
-. HTML
-. CSS
-. jQuery
-. axios
-. cheerio
+* Node.js 
+* express
+* JavaScript
+* HTML
+* CSS
+* jQuery
+* axios
+* cheerio
 
-###[Link to App](https://protected-citadel-95686.herokuapp.com/)
+### [Link to App](https://protected-citadel-95686.herokuapp.com/)
