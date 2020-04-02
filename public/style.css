@@ -27,3 +27,26 @@
           height: 200px;
           font-size: 18px;
         }
+        
+        .jumbotron {
+          background: url(klematis.jpg) repeat;
+          border: 2px solid black;
+          background-image: url("absolutvision-WYd_PkCa1BY-unsplash.jpg");
+          background-size: cover;
+        }
+
+        .background{
+       
+          /* background-color: #cccccc; */
+    
+          margin: 30px;
+          background-color: #ffffff;
+          border: 1px solid black;
+          opacity: 0.6;
+        }
+         .background p {
+           font-size: 24px;
+           margin: 5%;
+           font-weight: bold;
+           color: #000000;
+         }
